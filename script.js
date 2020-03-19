@@ -1,5 +1,5 @@
 document.write("hola")
 
 function test(){
-  alert("Hola mi amor")
+  alert("Hola princesar")
 }
